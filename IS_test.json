@@ -1,0 +1,1753 @@
+{
+  "settings": {
+    "show_explanation": true,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "show_progress": true
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "single_choice",
+      "question": "¿Qué significa la afirmación “El software se desarrolla, no se fabrica en sentido clásico”? A. El modelo de fallos del software se representa mediante la curva de la bañera. B. El modelo de desarrollo de un producto software y de hardware son equiparables. C. Los costes de un proyecto software se encuentran en la ingeniería y no se gestionan como fabricación. D. Todas las anteriores. solución: C. Los costes de un proyecto software se encuentran en la ingeniería y no se pueden gestionar como si fueran proyectos de fabricación. justificación: El software no tiene una fase de fabricación física; su coste reside en el esfuerzo intelectual y de diseño, y no presenta el desgaste físico (curva de la bañera) típico del hardware.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q2",
+      "type": "single_choice",
+      "question": "¿Cuál es el dominio de aplicación del software que hace uso de algoritmos no numéricos para resolver problemas complejos? A. Software de ingeniería. B. Software incrustado. C. Aplicaciones web. D. Software de inteligencia artificial. solución: D. Software de inteligencia artificial. justificación: La IA se caracteriza por tratar problemas complejos mediante el uso de algoritmos no numéricos y redes neuronales.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q3",
+      "type": "single_choice",
+      "question": "¿Cuál es el diagrama UML que muestra la distribución física de un sistema software en las plataformas de hardware? A. Diagrama de flujo. B. Diagrama de actividad. C. Diagrama de implementación. D. Diagrama de clases. solución: C. Diagrama de implementación. justificación: Este diagrama representa la arquitectura física del sistema, detallando dónde se ejecutan los componentes en el hardware.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q4",
+      "type": "single_choice",
+      "question": "¿Cuál es el principal problema del software heredado? A. Que está tecnológicamente obsoleto. B. Que ya no cumple con sus requisitos. C. Que generalmente es de mala calidad y cuesta mucho mantenerlo. D. Todas son correctas. solución: C. Que generalmente es de mala calidad y por lo tanto cuesta mucho mantenerlo. justificación: El software heredado suele carecer de documentación adecuada y presentar una estructura deficiente, lo que encarece su mantenimiento evolutivo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q5",
+      "type": "single_choice",
+      "question": "¿Cuál es la primera actividad en la estructura de proceso general para la ingeniería del software? A. Modelado. B. Construcción. C. Planeación. D. Comunicación. solución: D. Comunicación. justificación: Antes de cualquier otra acción, es imprescindible establecer comunicación con los participantes para entender el problema.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q6",
+      "type": "single_choice",
+      "question": "Indica cuáles son las capas de la ingeniería del software: A. Proceso, actividad, acción y tarea. B. Compromiso con la calidad, proceso, métodos y herramientas. C. Métodos, actividades y etapas. D. Ninguna de las anteriores. solución: B. Compromiso con la calidad, proceso, métodos y herramientas. justificación: Estas cuatro capas forman la base sobre la cual se sustenta la disciplina para garantizar un desarrollo sistemático.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q7",
+      "type": "single_choice",
+      "question": "Señala la característica deseable que debe tener un buen software: A. Alta calidad. B. Facilidad de mantenimiento. C. Entender bien el problema antes de desarrollar. D. Todas son correctas. solución: D. Todas son correctas. justificación: Un buen software no solo debe funcionar (calidad), sino ser sostenible en el tiempo y resolver el problema real del cliente.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q8",
+      "type": "single_choice",
+      "question": "¿Cuál de estas es una característica diferencial de las webapps? A. Concurrencia. B. Rendimiento. C. Uso intensivo de redes. D. Todas son correctas. solución: D. Todas son correctas. justificación: Las aplicaciones web se distinguen por manejar múltiples usuarios simultáneos, requerir alta disponibilidad y depender críticamente de la infraestructura de red.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q9",
+      "type": "single_choice",
+      "question": "Señala la \"actividad sombrilla\" (umbrella activity): A. Administración del riesgo. B. Despliegue. C. Construcción. D. Modelado. solución: A. Administración del riesgo. justificación: Las actividades sombrilla se aplican a lo largo de todo el ciclo de vida del proyecto, no son una fase específica.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q10",
+      "type": "single_choice",
+      "question": "¿Qué propiedad de la orientación a objetos permite a una subclase disponer de los atributos de su superclase? A. Polimorfismo. B. Herencia. C. Encapsulamiento. D. Cohesión. solución: B. Herencia. justificación: La herencia facilita la reutilización al permitir que las clases hijas hereden la estructura y comportamiento de sus ancestros.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q11",
+      "type": "single_choice",
+      "question": "¿Qué problemas del software dieron lugar a la crisis del software? A. Insatisfacción de clientes por calidad cuestionable. B. Baja productividad. C. Problemas en el mantenimiento. D. Todos los anteriores. solución: D. Todos los anteriores. justificación: La crisis surgió cuando los métodos ad hoc resultaron insuficientes para gestionar la creciente complejidad y coste del software.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q12",
+      "type": "single_choice",
+      "question": "El polimorfismo permite: A. Ocultar los datos de una clase. B. Posponer a tiempo de ejecución el tipo de objeto que se va a utilizar. C. Dividir el problema en partes más pequeñas. D. Crear copias exactas de un objeto. solución: B. Posponer a tiempo de ejecución el tipo de objeto que se va a utilizar. justificación: Gracias al polimorfismo, el código puede tratar objetos de diferentes clases de forma uniforme hasta el momento de ejecución.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q13",
+      "type": "single_choice",
+      "question": "Los mitos del software se dividen en: A. Requisitos, diseño y código. B. Administración, cliente y profesional. C. Coste, tiempo y calidad. D. Ninguna de las anteriores. solución: B. Administración, cliente y profesional. justificación: Estos tres grupos representan las falsas creencias que cada perfil involucrado suele tener sobre el desarrollo de software.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q14",
+      "type": "single_choice",
+      "question": "¿Qué es una clase? A. Una instancia concreta de un programa. B. Una estructura que encapsula datos (atributos) y operaciones (métodos). C. Un mensaje enviado entre objetos. D. El resultado del despliegue del software. solución: B. Una estructura que encapsula datos (atributos) y operaciones (métodos). justificación: La clase actúa como la plantilla o definición estructural en el paradigma orientado a objetos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q15",
+      "type": "single_choice",
+      "question": "¿Qué diagrama UML modela la interacción del usuario con las funciones del sistema? A. Diagrama de clases. B. Diagrama de casos de uso. C. Diagrama de actividad. D. Diagrama de flujo. solución: B. Diagrama de casos de uso. justificación: Estos diagramas capturan los requisitos funcionales desde la perspectiva del actor externo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q16",
+      "type": "single_choice",
+      "question": "Selecciona la falsa respecto al modelo en cascada: A. Sugiere un enfoque sistemático y secuencial. B. Comienza con el modelado de requisitos. C. El modelo en V es una variante. D. Es un proceso iterativo e incremental. solución: D. Es un proceso iterativo e incremental. justificación: El modelo en cascada es lineal y secuencial; el carácter iterativo es propio de modelos evolutivos o ágiles.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q17",
+      "type": "single_choice",
+      "question": "El proceso unificado propone las fases: A. Análisis, diseño, implementación y mantenimiento. B. Concepción, elaboración, construcción, transición y producción. C. Comunicación, planificación, modelado, construcción y despliegue. D. Diagramado de clases, de secuencia e implementación. solución: B. concepción, elaboración, construcción, transición y producción. justificación: Estas cinco fases marcan el ciclo de vida del Proceso Unificado (PU), centradas en la arquitectura y los casos de uso.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q18",
+      "type": "single_choice",
+      "question": "Indica cuáles son modelos comunes del proceso evolutivo: A. Patrones y pruebas. B. Prototipos y modelo en espiral. C. Análisis de riesgo y retroalimentación. D. Modelo unificado y ágil. solución: B. Prototipos y modelo en espiral. justificación: Ambos modelos permiten desarrollar versiones cada vez más completas del software mediante ciclos repetidos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q19",
+      "type": "single_choice",
+      "question": "¿Qué modelo de proceso se conoce también como ciclo de vida clásico? A. Modelo en cascada. B. Modelo incremental. C. Modelo evolutivo. D. Modelo concurrente. solución: A. Modelo en cascada. justificación: Es el modelo más antiguo y tradicional, que propone un flujo estrictamente lineal.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q20",
+      "type": "single_choice",
+      "question": "El desarrollo basado en componentes: A. Incorpora características del modelo en cascada. B. No requiere un modelo de proceso específico. C. Fomenta la reutilización del software. D. Evita las pruebas de integración. solución: C. Fomenta la reutilización del software. justificación: Este modelo se basa en integrar fragmentos de software prefabricados para construir sistemas más complejos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q21",
+      "type": "single_choice",
+      "question": "En los modelos ágiles comparados con los tradicionales: A. El coste económico del cambio es mayor. B. El tiempo de proyecto es mayor ante cambios. C. La planificación del proyecto es más flexible. D. Las entregas se hacen cada más tiempo. solución: C. la planificación del proyecto es más flexible. justificación: La agilidad prioriza la respuesta ante el cambio y la adaptación sobre el seguimiento de un plan rígido.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q22",
+      "type": "single_choice",
+      "question": "Según los principios de agilidad: A. Es más eficiente la videoconferencia. B. Los desarrolladores y negocio deben trabajar en espacios independientes. C. Los requisitos deben congelarse al principio. D. Hay que realizar entregas frecuentes de software al cliente. solución: D. Hay que realizar entregas frecuentes de software al cliente. justificación: La entrega continua de software funcional es el principal indicador de progreso en metodologías ágiles.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q23",
+      "type": "single_choice",
+      "question": "¿Qué modelo de proceso combina varios flujos de proceso? A. El modelo en cascada combina flujo lineal y evolutivo. B. El modelo incremental combina flujo lineal y paralelo. C. El modelo concurrente combina flujo evolutivo y paralelo. D. Cada modelo sigue un tipo de flujo único. solución: B. El modelo incremental combina el flujo lineal y paralelo. justificación: El modelo incremental aplica secuencias lineales de forma escalonada para producir entregas parciales.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q24",
+      "type": "single_choice",
+      "question": "En Scrum al patrón del proceso se le conoce como: A. Actividad. B. Melé. C. Sprint. D. Retraso. solución: C. Sprint. justificación: El sprint es el ciclo básico de desarrollo (normalmente 2-4 semanas) en Scrum.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q25",
+      "type": "single_choice",
+      "question": "¿Qué es lo que NO debería especificar un proceso software? A. La secuencia de actividades. B. Indicaciones técnicas rígidas sobre la forma de realizar cada actividad. C. Asignación de tareas. D. Criterios para controlar el proceso. solución: B. Indicaciones técnicas rígidas sobre la forma de realizar cada actividad. justificación: El proceso debe ser una guía adaptable y no una camisa de fuerza técnica que impida la creatividad o eficacia del profesional.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q26",
+      "type": "single_choice",
+      "question": "¿En qué circunstancias son adecuados los modelos de proceso basados en prototipos? A. Sistemas sencillos sin incertidumbres. B. Cuando el área de aplicación no está definida o hay alto riesgo de rechazo. C. Cuando se puede trabajar en paralelo. D. Cuando los requisitos no van a cambiar. solución: B. Cuando el área de aplicación no está definida o cuando el riesgo de rechazo es alto. justificación: El prototipado ayuda al cliente a visualizar la solución y refinar requisitos ambiguos antes del desarrollo final.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q27",
+      "type": "single_choice",
+      "question": "Un sprint de SCRUM: A. permite trabajar en un ambiente de corto plazo pero estable. B. permite introducir cambios en el desarrollo (durante el sprint). C. no se ciñe a una caja de tiempo. D. Ninguna de las anteriores. solución: A. permite a los miembros del equipo trabajar en un ambiente de corto plazo pero estable. justificación: Durante el sprint, el objetivo se mantiene estable para que el equipo pueda concentrarse en la entrega sin interrupciones.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q28",
+      "type": "single_choice",
+      "question": "El Manifiesto Ágil propone que: A. Los requisitos no se modifiquen al final. B. Los ciclos de entrega duren 6 meses. C. Los ciclos iterativos tengan duración variable según la carga. D. Ninguna de las anteriores. solución: D. Ninguna de las anteriores. justificación: El manifiesto propone entregas frecuentes (semanas o pocos meses), aceptar cambios en los requisitos y ritmos sostenibles.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q29",
+      "type": "single_choice",
+      "question": "Selecciona la verdadera respecto al modelo en espiral: A. Es un proceso secuencial y lineal. B. Dividido en ingeniería y construcción únicamente. C. Se desarrolla en una serie de entregas evolutivas. D. No abarca el análisis de riesgos. solución: C. Se desarrolla en una serie de entregas evolutivas. justificación: La espiral es un modelo evolutivo que añade un fuerte componente de análisis de riesgo en cada iteración.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q30",
+      "type": "single_choice",
+      "question": "¿Qué fase del Proceso Unificado incluye el desarrollo o adquisición de componentes de software? A. Concepción. B. Elaboración. C. Construcción. D. Ninguna de las anteriores. solución: C. Construcción. justificación: En esta fase se implementan y prueban los componentes que forman el producto final.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q31",
+      "type": "single_choice",
+      "question": "¿Cuál de los siguientes NO es un principio que guían la práctica? A. Divide y vencerás. B. No crear más modelos de los necesarios. (o Crear todos los modelos existentes). C. Las pruebas deben definirse tras la implementación. (o antes). D. Independencia funcional de los componentes. solución: C. Las pruebas deben definirse tras la implementación. justificación: Uno de los principios fundamentales de construcción es definir las pruebas antes de comenzar a codificar para asegurar la calidad.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q32",
+      "type": "single_choice",
+      "question": "Para lograr la comunicación efectiva: A. Es preferible asistir sin investigaciones previas. B. Cuando algo no está claro, es bueno dibujar para clarificarlo. C. La videoconferencia es preferible a la presencial. D. Centrarse en un tema hasta que se consensue. solución: B. Cuando algo no está claro, es bueno dibujar para clarificarlo. justificación: El modelado visual ayuda a alinear las percepciones de los participantes y resolver ambigüedades del lenguaje oral.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q33",
+      "type": "single_choice",
+      "question": "Durante la construcción de software: A. La programación debe ser individual. B. Evitar entornos con herramientas. C. Crear pruebas unitarias antes de codificar. D. Poner nombres cortos de variables (máx. 2 letras). solución: C. Hay que crear un conjunto de pruebas unitarias antes de comenzar a codificar. justificación: Este principio guía el desarrollo basado en pruebas, asegurando que cada componente cumpla su función desde el inicio.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q34",
+      "type": "single_choice",
+      "question": "En la práctica de la ingeniería de software: A. Nunca aplicar \"divide y vencerás\". B. Presentar problemas desde una única perspectiva. C. El uso de patrones facilita la resolución de problemas recurrentes. D. El mantenimiento no hay que plantearlo hasta el final. solución: C. El uso de patrones facilita la resolución de problemas recurrentes. justificación: Los patrones ofrecen soluciones probadas a problemas comunes, ahorrando tiempo y mejorando la robustez.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q35",
+      "type": "single_choice",
+      "question": "En las pruebas de software: A. No es posible realizar pruebas exhaustivas. B. Una prueba exitosa no encuentra problemas. C. Están orientadas a verificar la calidad pero no los requisitos. D. Realizar comenzando con todo el aplicativo. solución: A. No es posible realizar pruebas exhaustivas. justificación: El número de permutaciones de entrada y caminos lógicos en un software complejo es infinito, por lo que las pruebas son finitas por necesidad.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q36",
+      "type": "single_choice",
+      "question": "En la fase de despliegue: A. Evitar que el cliente tenga expectativas. B. Entregar aunque contenga pequeños errores. C. Acordar el modelo de apoyo tras la entrega. D. Se debe obtener retroalimentación del cliente. solución: D. Se debe obtener retroalimentación del cliente del software entregado. justificación: La opinión del usuario tras usar el incremento es vital para corregir el rumbo en la siguiente iteración.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q37",
+      "type": "single_choice",
+      "question": "En la planificación de un proyecto: A. Seguirla a rajatabla. B. Los hitos los marca el cliente unilateralmente. C. Hay que ser realista y saber que las personas no trabajan al 100% todos los días. D. Debe ser muy detallada desde el inicio. solución: C. Hay que ser realista y saber que las personas no trabajan al 100 % todos los días. justificación: La planificación humana debe considerar la fatiga, el aprendizaje y otros factores imprevistos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q38",
+      "type": "single_choice",
+      "question": "En referencia al modelado de software: A. Es el principal objetivo del equipo. B. Seguir perfectamente la notación estándar es secundario frente a construir software. C. No presentar al equipo hasta finalizarlo. D. No se deben crear más modelos que los necesarios. solución: D. No se deben crear más modelos que los necesarios. justificación: El modelado excesivo consume tiempo que debería dedicarse a la construcción; el modelo es solo un medio, no el fin.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q39",
+      "type": "single_choice",
+      "question": "El principio de \"divide y vencerás\" se aplica para: A. Ignorar las partes difíciles. B. Descomponer problemas complejos en problemas más pequeños. C. Trabajar solo con requisitos funcionales. D. Eliminar la comunicación con el cliente. solución: B. Descomponer problemas complejos en problemas más pequeños. justificación: Al reducir el tamaño del problema, este se vuelve más manejable y fácil de entender.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q40",
+      "type": "single_choice",
+      "question": "Los modelos de requisitos representan: A. La arquitectura física. B. El código fuente. C. La información, funcionalidad y comportamiento. D. El plan de proyecto detallado. solución: C. la información, funcionalidad y comportamiento. justificación: Son las tres dimensiones críticas para entender qué debe hacer el sistema.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q41",
+      "type": "single_choice",
+      "question": "El despliegue implica: A. Entrega, apoyo y retroalimentación. B. Programación y pruebas. C. Solo la entrega del CD o código. D. El cobro final del proyecto. solución: A. Entrega, apoyo y retroalimentación. justificación: Un despliegue exitoso requiere que el usuario sepa usar el software y reciba asistencia si hay fallos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q42",
+      "type": "single_choice",
+      "question": "¿Qué debe hacerse antes de las reuniones de comunicación? A. Nada, para ser espontáneo. B. Preparación previa por parte del líder. C. Ignorar a los participantes secundarios. D. Llevar el código ya escrito. solución: B. preparación previa. justificación: El líder debe estructurar la reunión y entender el contexto antes de convocar a los participantes.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q43",
+      "type": "single_choice",
+      "question": "¿Cuál es un principio de planificación según Barry Boehm? A. W5HH. B. Cascada. C. Orientación a objetos. D. Segregación de interfaz. solución: A. W5HH. justificación: Este principio utiliza siete preguntas clave para definir el plan de proyecto.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q44",
+      "type": "single_choice",
+      "question": "El modelado de diseño representa: A. Requisitos de usuario finales. B. Arquitectura, interfaz y componentes. C. Solo el diagrama de flujo. D. El manual de usuario. solución: B. arquitectura, interfaz de usuario y componente. justificación: El diseño transforma los requisitos en un plano detallado para la construcción.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q45",
+      "type": "single_choice",
+      "question": "Durante la construcción, si un software tiene errores: A. Debe entregarse igual para cumplir el plazo. B. Debe entregarse solo cuando esté libre de errores. C. Es responsabilidad del cliente encontrarlos. D. Se corrigen en la versión 2.0. solución: B. para entregarlo solo cuando libre de errores. justificación: Entregar software defectuoso daña la confianza del cliente y aumenta los costes de soporte.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q46",
+      "type": "single_choice",
+      "question": "¿Cuál es el objetivo principal de la tarea de Validación de Requisitos? A. Capturar formalmente las necesidades. B. Detectar y corregir inconsistencias, omisiones y ambigüedades. C. Negociar el precio del software. D. Diseñar la base de datos. solución: B. se detectan y corrigen inconsistencias y ambigüedades. justificación: La validación es el proceso de revisar el modelo de requisitos para asegurar que no existan errores lógicos o contradicciones antes de pasar al diseño.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q47",
+      "type": "single_choice",
+      "question": "En el proceso de Ingeniería de Requisitos, si surge un conflicto entre los participantes sobre un requisito concreto: A. El requisito se elimina por ser defectuoso. B. Se realiza una nueva indagación. C. Se lanza el proceso de Negociación de Requisitos. D. Se ignora el requisito. solución: C. Se lanza el proceso de Negociación de Requisitos donde se plantean diferentes soluciones al conflicto. justificación: La negociación busca equilibrar las necesidades de los participantes con los recursos disponibles (coste y tiempo), buscando que todos salgan ganando.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q48",
+      "type": "single_choice",
+      "question": "La técnica QFD (Despliegue de la Función de Calidad) identifica tres tipos de requisitos: A. De alto, medio y bajo nivel. B. Normales, esperados y emocionantes. C. Funcionales, no funcionales y de sistema. D. Iniciales, en estudio y consolidados. solución: A. Normales, esperados y emocionantes. justificación: El QFD ayuda a priorizar requisitos según la satisfacción que aportan al cliente, desde los básicos hasta los que le sorprenden gratamente.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q49",
+      "type": "single_choice",
+      "question": "¿Cuáles son las siete tareas de la ingeniería de requisitos? A. Concepción, indagación, elaboración, negociación, especificación, validación y administración. B. Análisis, diseño, codificación, pruebas, despliegue, mantenimiento y cierre. C. Comunicación, planeación, modelado, construcción y despliegue. D. Elicitación, documentación y pruebas. solución: B. Concepción, indagación, elaboración, negociación, especificación, validación y administración. justificación: Estas siete tareas cubren todo el ciclo de vida del requisito, desde que aparece la necesidad hasta que se gestiona su cambio durante el proyecto.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q50",
+      "type": "single_choice",
+      "question": "Los participantes candidatos de los que obtener información relativa a los requisitos son: A. Solo los usuarios finales. B. Los desarrolladores e ingenieros de mantenimiento. C. Cualquier persona que se beneficie directa o indirectamente del sistema. D. Solo los gerentes de la empresa. solución: C. Las personas que se beneficien directa o indirectamente del sistema a desarrollar. justificación: El término «participantes» (stakeholders) engloba a toda entidad interesada en el éxito del software, no solo a quien lo usa.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q51",
+      "type": "single_choice",
+      "question": "¿Qué diagrama UML representa la interacción del usuario con las funciones del sistema? A. Diagrama de clases. B. Diagrama de casos de uso. C. Diagrama de estados. D. Diagrama de comunicación. solución: B. Diagrama de casos de uso. justificación: Los casos de uso son la herramienta estándar para capturar los requisitos funcionales desde la perspectiva del actor externo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q52",
+      "type": "single_choice",
+      "question": "El objetivo de la recopilación de requisitos es: A. Identificar el problema a resolver. B. Proponer elementos de la solución. C. Negociar diferentes enfoques de la solución. D. Todas las anteriores. solución: B. Identificar el problema a resolver. justificación: La indagación se centra en entender el dominio del problema y las necesidades, no en diseñar aún la solución técnica.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q53",
+      "type": "single_choice",
+      "question": "Un «actor» en un caso de uso es: A. Siempre una persona humana. B. Una entidad externa que desempeña un rol. C. Un componente interno del sistema. D. Una función matemática del software. solución: B. Los actores representan entidades externas. justificación: Un actor puede ser una persona, pero también otro sistema externo o sensor que interactúe con el software.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q54",
+      "type": "single_choice",
+      "question": "¿Qué tarea consiste en crear el documento formal que describe el sistema? A. Concepción. B. Elaboración. C. Especificación. D. Negociación. solución: C. Especificación. justificación: La especificación puede ser un documento, un conjunto de modelos gráficos o una serie de casos de uso formales.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q55",
+      "type": "single_choice",
+      "question": "En la negociación de requisitos, el mejor resultado es: A. Que el cliente ceda ante el desarrollador. B. Que todos los participantes salgan ganando. C. Que el proyecto no cambie su planificación inicial. D. Que se eliminen los requisitos más caros. solución: A. Que todos los participantes salen ganando. justificación: La filosofía \"ganar-ganar\" asegura que el producto final sea valioso para el cliente y viable para el equipo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q56",
+      "type": "single_choice",
+      "question": "¿Cuál es la finalidad de las preguntas «libres de contexto»? A. Analizar el código fuente. B. Obtener una comprensión básica del problema sin prejuicios. C. Validar si el diseño es correcto. D. Negociar el salario del equipo. solución: B. para conocer mejor el problema. justificación: Estas preguntas ayudan al ingeniero a entender los objetivos y beneficios globales del sistema desde el inicio.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q57",
+      "type": "single_choice",
+      "question": "¿Qué diagrama UML ayuda a modelar flujos de trabajo en un caso de uso complejo? A. Diagrama de clases. B. Diagrama de actividad. C. Diagrama de componentes. D. Diagrama de despliegue. solución: B. Diagramas de actividad. justificación: El diagrama de actividades complementa al caso de uso mostrando decisiones y ramificaciones en el flujo de interacción.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q58",
+      "type": "single_choice",
+      "question": "¿En qué fase de la ingeniería de requisitos se dota de detalle al modelo (identificando excepciones)? A. Concepción. B. Elaboración. C. Validación. D. Administración. solución: B. elaboración. justificación: La elaboración toma los requisitos capturados y los expande en modelos técnicos refinados.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q59",
+      "type": "single_choice",
+      "question": "El modelado de requisitos debe describir: A. Solo la base de datos. B. Información, funcionalidad y comportamiento. C. Solo el código fuente. D. La lista de precios del producto. solución: C. La información, funcionalidad y comportamiento. justificación: Son las tres dimensiones críticas para tener una visión completa de lo que el sistema debe hacer.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q60",
+      "type": "single_choice",
+      "question": "¿Qué tarea de la ingeniería de requisitos se encarga de gestionar los cambios en los requisitos durante el proyecto? A. Validación. B. Administración. C. Indagación. D. Concepción. solución: B. administración. justificación: Dado que los requisitos suelen cambiar, la administración ayuda a controlar las versiones y el impacto de dichos cambios.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q61",
+      "type": "single_choice",
+      "question": "El modelado de requisitos que se centra en los actores del sistema se denomina: A. Modelado de datos. B. Modelado orientado al flujo. C. Modelado basado en escenarios. D. Modelado del comportamiento. solución: C. Modelado basado en escenarios. justificación: Este enfoque prioriza el punto de vista de quien interactúa con el sistema (casos de uso).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q62",
+      "type": "single_choice",
+      "question": "En un diagrama de clases, una relación de «es-parte-de» donde la parte depende totalmente del todo (si muere el todo, muere la parte) se representa como: A. Agregación (rombo hueco). B. Asociación simple. C. Composición (rombo relleno). D. Dependencia (línea discontinua). solución: C. La relación de composición... se representa mediante un rombo relleno. justificación: La composición indica una propiedad fuerte y un ciclo de vida compartido.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q63",
+      "type": "single_choice",
+      "question": "¿Cuáles son los tres tipos de clases del análisis que se suelen identificar? A. Pública, privada y protegida. B. Entidad, frontera y control. C. Datos, arquitectura e interfaz. D. Superior, subordinada e igual. solución: B. Entidad, frontera y control. justificación: Es la clasificación estándar de Jacobson para organizar las responsabilidades del modelo de análisis.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q64",
+      "type": "single_choice",
+      "question": "Los diagramas Entidad-Relación (ER) se utilizan principalmente para: A. Modelar el flujo de datos. B. Modelar los objetos de datos y sus interconexiones. C. Modelar la jerarquía de hardware. D. Modelar la interfaz de usuario. solución: D. Se representan con los diagramas Entidad-Relación. justificación: Aunque UML usa clases, el modelado ER sigue siendo fundamental para entender la estructura de la información.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q65",
+      "type": "single_choice",
+      "question": "¿Qué relación UML se usa para indicar que una subclase hereda de una superclase? A. Asociación. B. Generalización. C. Agregación. D. Composición. solución: B. La relación de generalización o herencia. justificación: La generalización permite aplicar el principio de herencia de la orientación a objetos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q66",
+      "type": "single_choice",
+      "question": "La fase de análisis se centra en responder a la pregunta: A. ¿Cómo hay que hacerlo? B. ¿Qué hay que hacer? C. ¿Cuánto va a costar? D. ¿Quién lo va a programar? solución: B. se centra «¿qué hay que hacer?». justificación: El análisis define el problema y los requisitos; el diseño define la solución técnica.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q67",
+      "type": "single_choice",
+      "question": "En un diagrama de clases, los atributos y operaciones de una clase se representan en: A. Un solo recuadro. B. Una caja dividida en tres partes (nombre, atributos, operaciones). C. Círculos conectados por líneas. D. Nubes de datos. solución: B. Cada clase se representa con una caja compuesta de tres partes. justificación: Es la notación estándar de UML para definir la estructura de una clase.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q68",
+      "type": "single_choice",
+      "question": "Un diagrama de actividades con «canales» (swimlanes) es útil para: A. Medir el rendimiento del servidor. B. Identificar el actor o clase responsable de cada acción. C. Dibujar la base de datos. D. Ninguna de las anteriores. solución: B. Representa la identificación del actor o clase responsable de cada acción. justificación: Los canales separan visualmente quién ejecuta cada tarea en un flujo complejo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q69",
+      "type": "single_choice",
+      "question": "¿Cómo se identifica inicialmente una clase de análisis a partir de un texto? A. Buscando los verbos. B. Buscando los adjetivos. C. Buscando los sustantivos. D. Buscando los signos de puntuación. solución: C. se analiza los casos de uso y se identifican los diferentes sustantivos. justificación: Los sustantivos suelen representar objetos o conceptos que se convertirán en clases o atributos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q70",
+      "type": "single_choice",
+      "question": "La relación de «agregación» se representa gráficamente con: A. Un rombo relleno. B. Un rombo hueco. C. Una flecha triangular. D. Una línea discontinua. solución: B. se representa mediante un rombo hueco indicando la relación todo/parte. justificación: A diferencia de la composición, la agregación indica que las partes pueden existir sin el todo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q71",
+      "type": "single_choice",
+      "question": "¿Cuál es el objetivo de los paquetes en UML? A. Comprimir el código fuente. B. Agrupar clases para facilitar el manejo de sistemas grandes. C. Enviar el software por correo electrónico. D. Definir el precio del software. solución: B. se pueden agrupar las clases en paquetes. justificación: Los paquetes organizan el modelo jerárquicamente para reducir la complejidad visual.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q72",
+      "type": "single_choice",
+      "question": "¿Qué elemento del modelo describe cómo interactúa el usuario final con el sistema? A. Diagrama de flujo de datos. B. Casos de uso. C. Diagrama de componentes. D. Seudocódigo. solución: B. representar cómo desea interactuar el usuario final con el sistema. justificación: Los casos de uso son el puente entre el usuario y el equipo de desarrollo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q73",
+      "type": "single_choice",
+      "question": "La escritura formal de un caso de uso debe incluir: A. El código en Java o C++. B. Precondiciones, lista de características, excepciones y prioridad. C. El presupuesto del proyecto. D. El nombre de todos los programadores. solución: C. Deberá incluir el conjunto de excepciones. justificación: La documentación formal es vital para entender qué ocurre cuando el flujo no es el ideal (errores o alternativas).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q74",
+      "type": "single_choice",
+      "question": "Una relación de dependencia se dibuja como: A. Una línea continua. B. Una línea punteada con flecha. C. Un rombo negro. D. Un triángulo grande. solución: B. se representa con una línea punteada indicando que cambios en una pueden suponer cambios en la otra. justificación: Indica que una clase usa a otra de manera temporal o que su definición depende de ella.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q75",
+      "type": "single_choice",
+      "question": "¿Qué representa la «multiplicidad» en una asociación? A. El número de veces que se copia el código. B. El número de objetos de una clase que se relacionan con un objeto de la otra. C. La velocidad de ejecución. D. El número de errores permitidos. solución: B. indica la multiplicidad de esta relación con un número o rango. justificación: Define si la relación es 1 a 1, 1 a muchos, etc. (ej. un Usuario realiza 1 o más Pedidos).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q76",
+      "type": "single_choice",
+      "question": "¿Cómo se denomina al diagrama de nivel 0 en un DFD (Diagrama de Flujo de Datos)? A. Diagrama padre. B. Diagrama fuente. C. Diagrama de contexto. D. Diagrama inicial. solución: C. Diagrama de contexto. justificación: Representa al sistema como una única burbuja de proceso interactuando con entidades externas.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q77",
+      "type": "single_choice",
+      "question": "El modelo de comportamiento se encarga de: A. Mostrar la estructura estática de las clases. B. Representar cómo responde el software a eventos o estímulos externos. C. Listar el hardware necesario. D. Definir la jerarquía de los gerentes. solución: C. Representa cómo responderá el software a eventos o estímulos externos. justificación: Se centra en el aspecto dinámico del sistema (qué hace el sistema cuando pasa algo).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q78",
+      "type": "single_choice",
+      "question": "¿Qué diagramas UML se usan para modelar la comunicación entre objetos con énfasis en el orden temporal? A. Diagramas de clases. B. Diagramas de secuencia. C. Diagramas de flujo de datos. D. Diagramas de implementación. solución: B. mostrando el orden temporal de ejecución de los mensajes. justificación: La línea de vida vertical en estos diagramas representa el avance del tiempo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q79",
+      "type": "single_choice",
+      "question": "Los diagramas de comunicación: A. Han sido eliminados en UML 2.0. B. Modelan la misma información que los diagramas de secuencia pero desde otro punto de vista. C. Sirven para diseñar la interfaz de usuario. D. Solo los usan los gerentes. solución: A. Modelan la misma información que los diagramas de secuencia, pero desde diferente punto de vista. justificación: Mientras la secuencia enfatiza el tiempo, la comunicación enfatiza las relaciones espaciales entre objetos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q80",
+      "type": "single_choice",
+      "question": "El diagrama de estados permite la especificación del: A. Flujo de datos. B. Flujo de control. C. Presupuesto mensual. D. Listado de materiales. solución: B. La especificación del flujo de control. justificación: Muestra los estados de un objeto y qué eventos disparan las transiciones entre ellos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q81",
+      "type": "single_choice",
+      "question": "¿Qué tipología de análisis se centra en modelar clases e interrelaciones? A. Análisis estructurado. B. Análisis orientado a objetos. C. Análisis de flujo. D. Análisis matemático. solución: C. Análisis orientado a objetos. justificación: A diferencia del estructurado (que separa datos y procesos), el orientado a objetos los une en clases.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q82",
+      "type": "single_choice",
+      "question": "En un DFD, el sistema se describe desde el punto de vista de: A. Actor-Función-Objetivo. B. Entrada-Proceso-Salida. C. Clase-Atributo-Método. D. Jefe-Empleado-Tarea. solución: B. Describe el sistema desde el punto de vista de “entrada-proceso-salida”. justificación: Es el núcleo del análisis estructurado para entender la transformación de la información.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q83",
+      "type": "single_choice",
+      "question": "¿Cuál de los siguientes NO es un elemento de un diagrama de secuencia? A. Línea de vida. B. Foco de control (activación). C. Mensaje. D. Rombo de composición. solución: D. Rombo de composición. justificación: El rombo es propio del diagrama de clases; la secuencia usa líneas y rectángulos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q84",
+      "type": "single_choice",
+      "question": "El primer paso para crear un modelo de comportamiento es: A. Escribir el código Java. B. Evaluar todos los casos de uso. C. Comprar el servidor. D. Dibujar la arquitectura de red. solución: B. Evaluar los casos de uso. justificación: Los casos de uso contienen los escenarios que dictan cómo debe comportarse el sistema.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q85",
+      "type": "single_choice",
+      "question": "¿Qué representan las flechas en un diagrama de secuencia? A. Relaciones de herencia. B. Mensajes enviados entre objetos. C. El flujo de electricidad. D. El camino que debe seguir el usuario por la oficina. solución: B. mensajes... mostrando el orden temporal. justificación: Cada flecha es una llamada a un método o una respuesta de datos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q86",
+      "type": "single_choice",
+      "question": "Los patrones en el modelado de requisitos: A. Ralentizan el desarrollo. B. Facilitan la reutilización del conocimiento para problemas similares. C. Son solo para el diseño gráfico. D. Sustituyen al programador. solución: C. Facilitan la reutilización del conocimiento para la creación de un modelo de requisitos. justificación: Permiten aplicar soluciones probadas a problemas de análisis recurrentes.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q87",
+      "type": "single_choice",
+      "question": "En un diagrama de estados, una «transición» es: A. Un tipo de atributo. B. El paso de un estado a otro provocado por un evento. C. El final del proyecto. D. La traducción al inglés. solución: B. transacciones entre dichos estados por los que pasará un objeto. justificación: Define la dinámica del objeto (ej. de «Pedido recibido» a «Pedido pagado»).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q88",
+      "type": "single_choice",
+      "question": "El análisis estructurado trata los datos y los procesos como: A. Entidades independientes. B. Una sola clase. C. Archivos de texto. D. Mensajes de red. solución: A. modela los datos y sus procesos como entidades independientes. justificación: Es la principal diferencia con el enfoque orientado a objetos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q89",
+      "type": "single_choice",
+      "question": "¿Qué diagrama UML muestra el comportamiento dinámico mediante el flujo de control de acciones? A. Diagrama de clases. B. Diagrama de actividad. C. Diagrama de despliegue. D. Diagrama de objetos. solución: B. muestran el comportamiento dinámico del sistema mediante el flujo de control de las acciones. justificación: Es similar a un diagrama de flujo tradicional pero integrado en UML.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q90",
+      "type": "single_choice",
+      "question": "¿Para qué sirve un «evento» en el modelado del comportamiento? A. Para organizar una fiesta. B. Para disparar un cambio de estado o una interacción. C. Para medir el tamaño del disco duro. D. Para imprimir el informe final. solución: B. Identificar los eventos que desencadenan las interacciones entre objetos. justificación: Los eventos son los estímulos externos o internos que hacen que el sistema «reaccione».",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q91",
+      "type": "single_choice",
+      "question": "¿A qué nivel de diseño corresponde la representación de las interfaces internas y externas? A. Diseño de datos. B. Diseño de la arquitectura. C. Diseño de la interfaz. D. Diseño de componentes. solución: C. Elementos de diseño de la interfaz: que modelan las interfaces de la aplicación. justificación: El diseño de interfaz se ocupa de la comunicación entre el sistema y los usuarios, y entre módulos internos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q92",
+      "type": "single_choice",
+      "question": "La división del software en componentes independientes con nombre propio que pueden resolverse por separado se llama: A. Abstracción. B. Modularidad. C. Polimorfismo. D. Encapsulamiento. solución: B. Modularidad... división del software en componentes identificables por un nombre. justificación: Es el principio básico para gestionar la complejidad mediante la separación de responsabilidades.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q93",
+      "type": "single_choice",
+      "question": "El concepto de «Ocultamiento de información» sugiere que: A. El código debe ser secreto para el cliente. B. Los algoritmos y datos internos de un módulo deben ser inaccesibles a quien no los necesite. C. No hay que documentar el proyecto. D. Se deben borrar los archivos tras la entrega. solución: B. de forma que la información contenida (datos y algoritmos) sea inaccesible a los que no la necesiten. justificación: Reduce el riesgo de efectos secundarios cuando se cambia el interior de un módulo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q94",
+      "type": "single_choice",
+      "question": "El «rediseño» (refactoring) consiste en: A. Cambiar el lenguaje de programación. B. Simplificar el diseño sin modificar la funcionalidad del componente. C. Empezar el proyecto desde cero. D. Añadir más botones a la interfaz. solución: C. Simplificación del diseño del software sin modificar su funcionalidad. justificación: Busca mejorar la estructura interna (calidad técnica) manteniendo el comportamiento externo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q95",
+      "type": "single_choice",
+      "question": "¿Qué atributo de calidad facilita la ampliación y adaptación futura del software? A. Usabilidad. B. Rendimiento. C. Mantenibilidad. D. Fiabilidad. solución: D. Mantenibilidad. justificación: Un software mantenible es fácil de corregir, adaptar y mejorar a lo largo del tiempo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q96",
+      "type": "single_choice",
+      "question": "La fase de diseño del software comienza: A. Antes de hablar con el cliente. B. Una vez analizado y modelado los requisitos. C. Al finalizar la programación. D. Durante el mantenimiento. solución: C. Comienza una vez analizado y modelado los requisitos. justificación: El diseño traduce los requisitos en un plano técnico para la construcción.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q97",
+      "type": "single_choice",
+      "question": "Un diseño con «bajo nivel de abstracción» es aquel que: A. Describe la solución de forma general. B. Describe la solución de forma muy detallada. C. No tiene importancia. D. Solo tiene dibujos. solución: B. con bajo nivel de abstracción, la descripción de la solución será más detallada. justificación: A medida que avanzamos hacia la codificación, la abstracción disminuye para dar detalles técnicos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q98",
+      "type": "single_choice",
+      "question": "La «Independencia funcional» se logra cuando cada módulo: A. Tiene muchas funciones diferentes. B. Resuelve un conjunto específico de requisitos y tiene una interfaz sencilla. C. No se conecta con ningún otro módulo. D. Lo programa una persona distinta. solución: B. cada módulo debe resolver un conjunto específico de requisitos y ofrece una interfaz sencilla. justificación: Se mide mediante la alta cohesión y el bajo acoplamiento.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q99",
+      "type": "single_choice",
+      "question": "El modelo de diseño se compone de elementos de diseño de: A. Datos, arquitectura, interfaz, componentes y despliegue. B. Solo código fuente. C. Presupuesto y marketing. D. Hardware y redes. solución: A. Datos, arquitectura, interfaz, componentes y despliegue. justificación: Son las dimensiones necesarias para que la construcción sea exitosa.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q100",
+      "type": "single_choice",
+      "question": "El diseño da respuesta a la pregunta: A. ¿Qué hay que hacer? B. ¿Cómo hay que hacerlo? C. ¿Por qué hay que hacerlo? D. ¿Quién paga esto? solución: B. ¿Cómo lo hay que hacer? justificación: Traduce el \"qué\" del análisis en el \"cómo\" técnico.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q101",
+      "type": "single_choice",
+      "question": "La «Arquitectura del software» se define como: A. La fachada del edificio de la empresa. B. La estructura de los módulos, su interacción y sus estructuras de datos. C. El tipo de ordenador usado. D. El manual de usuario. solución: B. es la estructura de los diferentes módulos del sistema, el modo en que interactúan... justificación: Es el diseño de alto nivel que da soporte a todo el sistema.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q102",
+      "type": "single_choice",
+      "question": "El principio de «División de problemas» afirma que: A. Hay que despedir a quien cause problemas. B. Un problema complejo es más fácil de resolver si se subdivide. C. Los problemas se ignoran hasta el final. D. El cliente no debe conocer los problemas. solución: B. un problema complejo se resuelve con mayor facilidad si subdivide en problemas más pequeños. justificación: Es la base de la modularidad y el diseño estructurado.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q103",
+      "type": "single_choice",
+      "question": "¿Qué diagrama UML se usa para definir los elementos de diseño de despliegue? A. Diagrama de clases. B. Diagrama de secuencia. C. Diagrama de despliegue. D. Diagrama de flujo. solución: A. Despliegue. justificación: Muestra la asignación de componentes de software a nodos físicos de hardware.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q104",
+      "type": "single_choice",
+      "question": "¿Qué atributo de calidad se refiere a que el software proporcione las funciones sin fallar? A. Funcionalidad. B. Fiabilidad. C. Estética. D. Precio. solución: B. Fiabilidad. justificación: Es vital en sistemas críticos donde el fallo no es una opción.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q105",
+      "type": "single_choice",
+      "question": "Los «Mockups» son herramientas útiles para: A. Compilar el código. B. Realizar el diseño informal del aspecto de la aplicación. C. Medir la velocidad del disco. D. Formatear el ordenador. solución: B. permiten realizar el diseño informal del aspecto que tendrá una aplicación. justificación: Ayudan a validar la interfaz con el cliente de forma rápida y barata antes de programar.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q106",
+      "type": "single_choice",
+      "question": "¿Qué proporciona la arquitectura del software? A. El código fuente final. B. Una visión estructural del sistema, sus componentes y conexiones. C. El manual de instalación de Windows. D. La lista de precios de la competencia. solución: B. Proporciona una visión la estructura y los componentes a construir. justificación: Es el \"esqueleto\" técnico que asegura que el sistema sea robusto y escalable.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q107",
+      "type": "single_choice",
+      "question": "¿Qué es un «arquetipo» en el diseño arquitectónico? A. Un modelo que ya no se usa. B. Una clase o patrón que representa una abstracción de importancia crítica. C. El primer empleado de la empresa. D. Un error de diseño grave. solución: B. Una clase o patrón que representa una abstracción de importancia crítica en la arquitectura. justificación: Representan los elementos nucleares sobre los que se apoya la arquitectura (ej. \"Nodo\", \"Mensaje\").",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q108",
+      "type": "single_choice",
+      "question": "El estilo arquitectónico de «Llamada y retorno» incluye: A. Arquitecturas en capas y orientadas a objetos. B. Arquitecturas centradas en datos. C. Arquitecturas de flujo de datos. D. Arquitecturas aleatorias. solución: A. Las arquitecturas de programa principal/subprograma... y orientadas a objetos. justificación: Se basan en la transferencia de control mediante llamadas que esperan un retorno.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q109",
+      "type": "single_choice",
+      "question": "El método de la negociación para analizar la arquitectura sirve para: A. Regatear el precio con el cliente. B. Evaluar alternativas de arquitectura y determinar la más adecuada. C. Decidir qué lenguaje de programación es más bonito. D. Ninguna de las anteriores. solución: D. Evaluar las alternativas de arquitectura y determinar la más adecuada. justificación: Permite comparar opciones según atributos de calidad como seguridad o mantenibilidad.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q110",
+      "type": "single_choice",
+      "question": "Las arquitecturas de «flujo de datos» se aplican cuando: A. Los datos están en un servidor central. B. Los datos de entrada se transforman en salida mediante una serie de componentes. C. No hay flujo de datos. D. El sistema es una web simple. solución: D. Los datos de entrada se transforma en datos de salida mediante componentes software. justificación: Es el patrón típico de tuberías y filtros (pipes and filters).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q111",
+      "type": "single_choice",
+      "question": "¿Qué evalúa la «complejidad arquitectónica»? A. El número de páginas del manual. B. Las dependencias entre los componentes. C. El salario del arquitecto. D. El número de colores de la interfaz. solución: C. Las dependencias entre los componentes. justificación: A mayor interdependencia, mayor complejidad y mayor riesgo de errores en cadena.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q112",
+      "type": "single_choice",
+      "question": "Un «Género arquitectónico» determina: A. Si el software es para hombres o mujeres. B. El enfoque específico para el software a construir (ej. médico, militar). C. El tipo de letra usado. D. El nombre del proyecto. solución: A. Determina el enfoque específico para el software a construir. justificación: Un software para medicina tiene requisitos arquitectónicos muy distintos a uno de videojuegos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q113",
+      "type": "single_choice",
+      "question": "Los sistemas externos que usan al sistema modelado como parte de un esquema de alto nivel se llaman: A. Sistemas subordinados. B. Sistemas superiores. C. Sistemas entre iguales. D. Sistemas hermanos. solución: A. Sistemas superiores. justificación: El sistema actual es un \"peón\" dentro de un proceso más grande controlado por el sistema superior.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q114",
+      "type": "single_choice",
+      "question": "El mapeo de la arquitectura desde el DFD es propio del: A. Diseño orientado a objetos. B. Diseño estructurado. C. Diseño ágil. D. Diseño web. solución: B. El diseño estructurado propone la transición del Diagrama de Flujo de Datos... justificación: Convierte los procesos del DFD en módulos de la jerarquía de control.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q115",
+      "type": "single_choice",
+      "question": "¿Qué ventaja ofrece una arquitectura centrada en datos? A. Es más rápida. B. Facilita la integridad de los datos al estar en un almacén central (depósito). C. No necesita base de datos. D. Es más barata. solución: B. El centro de la arquitectura son los datos a los que acceden los componentes. justificación: Todos los componentes se comunican a través de una base de datos central.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q116",
+      "type": "single_choice",
+      "question": "En el diseño arquitectónico, la comunicación con entidades externas se realiza mediante: A. Gritos. B. Una interfaz. C. Un archivo de texto. D. El gerente. solución: B. La comunicación con cada una de estas entidades externas se realiza mediante una interfaz. justificación: La interfaz define el contrato de entrada/salida de información.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q117",
+      "type": "single_choice",
+      "question": "¿Qué arquitectura divide el sistema en niveles de abstracción? A. Arquitectura en capas. B. Arquitectura en círculos. C. Arquitectura plana. D. Arquitectura en red. solución: A. Arquitecturas en capas. justificación: Cada capa solo conoce a la capa inmediatamente inferior, mejorando la modularidad.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q118",
+      "type": "single_choice",
+      "question": "El diseño arquitectónico ayuda a: A. Escribir el código más rápido. B. Reducir riesgos asociados con la construcción. C. Aumentar el número de errores. D. Comprar hardware innecesario. solución: C. Reduce los riesgos asociados con la construcción del software. justificación: Permite detectar problemas estructurales antes de que el coste de corregirlos sea prohibitivo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q119",
+      "type": "single_choice",
+      "question": "¿Qué estilo arquitectónico se basa en objetos que encapsulan datos y operaciones? A. Arquitectura de capas. B. Arquitectura orientada a objetos. C. Arquitectura de tuberías. D. Arquitectura de red. solución: B. Arquitecturas orientadas a objetos. justificación: Los componentes se comunican mediante paso de mensajes entre objetos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q120",
+      "type": "single_choice",
+      "question": "Los sistemas externos que producen o consumen información desde una base de igualdad se llaman: A. Sistemas superiores. B. Sistemas subordinados. C. Sistemas entre iguales (Peer-to-peer). D. Sistemas esclavos. solución: C. Sistemas entre iguales. justificación: Cooperan en el procesamiento sin una jerarquía clara de mando.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q121",
+      "type": "single_choice",
+      "question": "¿Qué propone el principio Abierto-Cerrado? A. El código debe estar abierto al público pero cerrado a cambios. B. El componente debe ser abierto para la extensión pero cerrado para la modificación. C. La puerta de la oficina debe estar abierta. D. El software debe ser gratuito. solución: C. Que debe ser abierto para la extensión y cerrado para la modificación. justificación: Se debe poder añadir funcionalidad (extensión) sin tocar el código que ya funciona (modificación).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q122",
+      "type": "single_choice",
+      "question": "Un componente diseñado con «Alta cohesión» es aquel que: A. Depende de muchos otros componentes. B. Solo contiene atributos y operaciones relacionados con su funcionalidad específica. C. Es muy grande y hace de todo. D. Está escrito en varios idiomas. solución: B. solo contendrá atributos y operaciones relacionadas con la funcionalidad que desarrolla. justificación: Un módulo cohesivo es fácil de entender, probar y mantener.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q123",
+      "type": "single_choice",
+      "question": "El «bajo acoplamiento» se logra: A. Aumentando la interdependencia entre clases. B. Reduciendo la interdependencia entre clases. C. Eliminando todas las clases. D. Usando cables cortos. solución: B. Esto se logra reduciendo la interdependencia entre clases. justificación: Los componentes deben estar lo más \"sueltos\" posible para que cambios en uno no rompan los demás.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q124",
+      "type": "single_choice",
+      "question": "El principio de sustitución de Liskov afirma que: A. Se puede sustituir un programador por otro. B. Las subclases deben ser sustituibles por sus clases base sin romper el sistema. C. El software viejo debe tirarse. D. Los componentes deben ser pequeños. solución: A. Las subclases siempre pueden sustituir a las clases base. justificación: Asegura que la jerarquía de herencia sea lógica y funcionalmente correcta.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q125",
+      "type": "single_choice",
+      "question": "Para representar combinaciones complejas de condiciones y acciones en diseño tradicional se usan: A. Diagramas de flujo. B. Tablas de decisión. C. Dibujos artísticos. D. Listas de correo. solución: A. Tablas de decisión. justificación: Son mucho más claras que múltiples sentencias \"if\" anidadas.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q126",
+      "type": "single_choice",
+      "question": "El «Seudocódigo» sirve para: A. Sustituir al lenguaje de programación final. B. Representar la funcionalidad del componente en un lenguaje intermedio humano-máquina. C. Ocultar el código real. D. Engañar al cliente. solución: C. Permite representar la funcionalidad de un componente. justificación: Permite detallar la lógica antes de preocuparse por la sintaxis estricta del lenguaje.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q127",
+      "type": "single_choice",
+      "question": "En referencia a la agrupación de componentes, el principio de «Cierre común» dice que: A. Las clases que cambian juntas deben pertenecer a la misma agrupación. B. Hay que cerrar la oficina a la misma hora. C. Los componentes deben borrarse juntos. D. No se deben agrupar clases. solución: A. las clases que cambian juntas deben pertenecer a la misma agrupación. justificación: Minimiza el número de paquetes o componentes que hay que modificar ante un cambio.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q128",
+      "type": "single_choice",
+      "question": "La ingeniería de software basada en componentes (CBSE) propone: A. Programar todo desde cero siempre. B. La construcción de sistemas reutilizando componentes ya existentes. C. No usar componentes. D. Usar solo componentes de hardware. solución: C. La construcción de sistemas reutilizando componentes ya existentes. justificación: Aumenta la productividad y reduce errores al usar piezas ya probadas.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q129",
+      "type": "single_choice",
+      "question": "¿Qué punto de vista define al componente como un conjunto de clases interrelacionadas? A. Punto de vista tradicional. B. Punto de vista de orientación a objetos. C. Punto de vista del proceso. D. Punto de vista del cliente. solución: B. Orientación a objetos: el componente es un conjunto de clases interrelacionadas. justificación: En OO, el componente es una agrupación lógica de clases que colaboran.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q130",
+      "type": "single_choice",
+      "question": "El principio de «Inversión de la dependencia» propone: A. Depender de las concreciones. B. Depender de las abstracciones, no de las concreciones. C. No tener dependencias. D. Que el jefe dependa del empleado. solución: B. se debe depender de las abstracciones, no de las concreciones. justificación: Evita que el código de alto nivel dependa de detalles de bajo nivel.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q131",
+      "type": "single_choice",
+      "question": "El principio de segregación de la interfaz recomienda: A. Tener una sola interfaz gigante para todo. B. Tener muchas interfaces específicas del cliente que una sola de propósito general. C. No usar interfaces. D. Separar a los clientes en salas distintas. solución: B. es mejor tener muchas interfaces específicas del cliente que una sola de propósito general. justificación: Los clientes no deben estar obligados a depender de métodos que no utilizan.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q132",
+      "type": "single_choice",
+      "question": "En el diseño de componentes, ¿qué es la «cohesión»? A. El pegamento usado. B. La medida de la relación funcional dentro de un módulo. C. El número de programadores en el equipo. D. La velocidad de la red. solución: B. Es el resultado directo de la separación de problemas... y ocultamiento. justificación: Un componente con alta cohesión hace una sola cosa y la hace bien.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q133",
+      "type": "single_choice",
+      "question": "El principio de «Equivalencia de la liberación de la reutilización» afirma que: A. Lo que se reutiliza debe ser lo que se libera (versiones estables). B. Se debe liberar código con errores. C. No hay que reutilizar nada. D. La liberación es diaria. solución: A. el gránulo de reutilización es el gránulo de liberación. justificación: Solo podemos confiar en componentes que tienen un control de versiones y soporte formal.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q134",
+      "type": "single_choice",
+      "question": "¿Qué diagrama UML se usa habitualmente para representar el diseño de componentes tradicionales? A. Diagrama de clases. B. Diagrama de actividad. C. Diagrama de secuencia. D. Diagrama de estados. solución: B. se utilizan los diagramas UML de actividad o los diagramas de flujo. justificación: Permiten visualizar algoritmos y lógica de decisión.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q135",
+      "type": "single_choice",
+      "question": "Un componente es «sustituible» si: A. Es barato. B. Cumple con la misma interfaz y comportamiento esperado que el original. C. Se puede borrar sin avisar. D. Es de otra empresa. solución: B. Un módulo que puede desplegarse o sustituirse con independencia. justificación: Es la base de la arquitectura modular y los servicios web.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q136",
+      "type": "single_choice",
+      "question": "¿Qué es un patrón de diseño? A. El jefe del equipo de diseño. B. Una solución probada a un problema en un determinado contexto. C. Un dibujo decorativo en la interfaz. D. Una regla rígida que no se puede cambiar. solución: C. La solución probada a un problema en un determinado contexto. justificación: Es conocimiento destilado de expertos para resolver problemas recurrentes.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q137",
+      "type": "single_choice",
+      "question": "Los patrones se clasifican habitualmente en: A. Funcionales, arquitectónicos y organizativos. B. De creación, estructurales y de conducta. C. De búsqueda, consulta y archivado. D. Fáciles, medios y difíciles. solución: B. De creación, estructurales y de conducta. justificación: Es la clasificación clásica de la \"Banda de los Cuatro\" (GoF).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q138",
+      "type": "single_choice",
+      "question": "Los patrones de «creación» se encargan de: A. Dibujar la interfaz. B. La creación, composición y representación de objetos. C. Borrar objetos de la memoria. D. Organizar las reuniones. solución: A. encargados de la creación, composición y representación de objetos. justificación: Abstraen el proceso de instanciación (ej. Singleton, Abstract Factory).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q139",
+      "type": "single_choice",
+      "question": "¿Qué es un «lenguaje de patrón»? A. Un nuevo lenguaje de programación como Python. B. Un conjunto interrelacionado de patrones que colaboran para resolver un dominio. C. El idioma que hablan los diseñadores. D. Un manual de gramática. solución: D. Describe con formato estándar a un conjunto de patrones y sus interrelaciones. justificación: Proporciona una guía completa para construir una aplicación en un ámbito específico.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q140",
+      "type": "single_choice",
+      "question": "Un «antipatrón» es: A. El enemigo de un patrón. B. Una solución común a un problema que conduce a una mala resolución del mismo. C. Un patrón que ya no existe. D. Un error de ortografía en UML. solución: B. soluciones que se dan a problemas comunes que conducen a una mala resolución. justificación: Identifican prácticas que parecen buenas pero causan problemas a largo plazo (ej. \"Gran bola de lodo\").",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q141",
+      "type": "single_choice",
+      "question": "Los patrones «estructurales» se relacionan con: A. El sueldo de los empleados. B. Cómo se organizan e integran las clases para construir estructuras más grandes. C. La velocidad de la base de datos. D. El diseño del hardware. solución: A. modo en el que se organizan e integran las clases y objetos para construir una estructura más grande. justificación: Se centran en la composición de clases y objetos (ej. Adapter, Facade).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q142",
+      "type": "single_choice",
+      "question": "¿Qué puede determinar un diseñador basándose en la descripción de un patrón? A. Si el patrón es aplicable. B. Si puede volver a usarse. C. Si sirve como guía para otro patrón. D. Todas son ciertas. solución: D. Todas son ciertas. justificación: La documentación del patrón da todo el contexto necesario para su evaluación técnica.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q143",
+      "type": "single_choice",
+      "question": "Los patrones de «conducta» se enfocan en: A. El comportamiento de los empleados. B. La asignación de responsabilidades y el modo en que se comunican los objetos. C. El color de los botones. D. La seguridad del servidor. solución: A. enfocados a la asignación de responsabilidad entre los objetos y al modo en el que se comunican. justificación: Se ocupan de los algoritmos y la interacción entre objetos (ej. Observer, Strategy).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q144",
+      "type": "single_choice",
+      "question": "Las soluciones propuestas en los patrones arquitectónicos hacen referencia a: A. La estructura del sistema. B. Solo el código fuente. C. La interfaz de usuario. D. El plan de marketing. solución: A. Hacen referencia a la estructura del sistema. justificación: Son patrones de alto nivel que afectan a la organización global de la aplicación.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q145",
+      "type": "single_choice",
+      "question": "Los patrones de diseño de interfaz de usuario dan soluciones a: A. Problemas de la base de datos. B. Requisitos de la interfaz de usuario de una aplicación. C. El hardware de red. D. El sistema de archivos. solución: C. Dan soluciones a requisitos de la interfaz de usuario de una aplicación. justificación: Ayudan a crear interfaces usables y consistentes.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q146",
+      "type": "single_choice",
+      "question": "¿Qué es un patrón «no generativo»? A. Uno que no se puede copiar. B. Uno que describe un contexto y problema pero no ofrece una solución clara. C. Un patrón que genera código solo. D. Un patrón para hardware viejo. solución: D. No ofrecen una solución al problema. justificación: Son útiles para identificar problemas, aunque no digan exactamente cómo resolverlos.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q147",
+      "type": "single_choice",
+      "question": "El diseño de software basado en patrones requiere: A. Identificación de patrones en los requisitos. B. Búsqueda de soluciones contrastadas. C. Uso de patrones como guía. D. Todas son correctas. solución: D. Todas son correctas. justificación: Es un proceso sistemático de aplicación de soluciones probadas.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q148",
+      "type": "single_choice",
+      "question": "El patrón MVC (Modelo-Vista-Controlador) es un ejemplo de: A. Patrón de creación (en algunos contextos se considera estructural o arquitectónico). B. Patrón de conducta. C. Un lenguaje de programación. D. Una base de datos. solución: A. Patrones de creación... Singleton, MVC. justificación: Aunque es complejo, se agrupa aquí por su papel en la organización de la creación de la interfaz.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q149",
+      "type": "single_choice",
+      "question": "¿Qué patrón estructural se usa para proporcionar una interfaz simplificada a un conjunto de clases? A. Singleton. B. Facade (Fachada). C. Observer. D. Iterator. solución: A. Facade. justificación: Oculta la complejidad del sistema detrás de una sola clase sencilla.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q150",
+      "type": "single_choice",
+      "question": "Los patrones de diseño de componentes: A. Se autoorganizan. B. Presentan soluciones a problemas del modelo de requisitos. C. No necesitan interfaz. D. Solo son para C++. solución: D. Presentan soluciones a problemas del modelo de requisitos. justificación: Ayudan a diseñar la lógica interna de los componentes basándose en lo que el cliente pidió.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q151",
+      "type": "single_choice",
+      "question": "¿En qué consiste el «dilema de la calidad del software»? A. En que los programadores no quieren hacer pruebas. B. En el equilibrio entre calidad suficiente, precio y coste. C. En que el cliente siempre quiere el software gratis. D. En la falta de herramientas de calidad. solución: B. El equilibrio entre calidad suficiente, precio y coste. justificación: Buscar la perfección total haría al producto económicamente inviable.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q152",
+      "type": "single_choice",
+      "question": "Según Garvin, la dimensión de calidad de «Confiabilidad» se refiere a: A. Si el software es bonito. B. Si proporciona todas las características y capacidades sin fallar. C. Si el código está bien comentado. D. Si el programador es de confianza. solución: C. Confiabilidad. justificación: Mide la probabilidad de que el software funcione correctamente durante un periodo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q153",
+      "type": "single_choice",
+      "question": "¿Qué actividad consiste en auditorías e informes para evaluar la eficacia del control de calidad? A. Control de calidad. B. Aseguramiento de la calidad (SQA). C. Programación. D. Marketing. solución: C. Auditorías e informes para evaluar la eficacia y completitud... justificación: El SQA supervisa que el proceso de calidad se esté cumpliendo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q154",
+      "type": "single_choice",
+      "question": "Los factores de calidad de McCall incluyen: A. Corrección, fiabilidad y usabilidad. B. Precio, color y tamaño. C. Nombre, apellidos y DNI. D. Java, Python y C++. solución: A. Corrección, fiabilidad, usabilidad del producto. justificación: Son factores que definen la calidad desde el punto de vista operativo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q155",
+      "type": "single_choice",
+      "question": "El equipo de Aseguramiento de la Calidad (SQA) debe: A. Ser el mismo que el equipo de desarrollo. B. Ser independiente del equipo de desarrollo. C. No existir. D. Estar formado solo por clientes. solución: B. Deben ser independiente del equipo de desarrollo. justificación: La independencia garantiza la objetividad en las auditorías y revisiones.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q156",
+      "type": "single_choice",
+      "question": "¿Qué proporciona la «calidad del software» según Pressman? A. El número de programadores. B. Un proceso de software eficaz, un producto final útil y valor añadido. C. La marca del ordenador. D. El país de desarrollo. solución: C. La eficacia en el proceso de software. justificación: La calidad no es un accidente, es el resultado de un proceso bien gestionado.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q157",
+      "type": "single_choice",
+      "question": "En la satisfacción del usuario influyen: A. El buen funcionamiento y calidad. B. La entrega dentro de plazos. C. El coste según lo previsto. D. Todo lo anterior. solución: D. Todo lo anterior. justificación: Un software perfecto que llega un año tarde o cuesta el doble no satisface al usuario.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q158",
+      "type": "single_choice",
+      "question": "¿Cuál de estas actividades NO garantiza el aseguramiento de la calidad? A. Revisiones y auditorías. B. Gestión de riesgos. C. Búsqueda del máximo beneficio económico a corto plazo. D. Pruebas del software. solución: C. Búsqueda del máximo beneficio. justificación: Priorizar el dinero sobre el proceso suele degradar la calidad final.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q159",
+      "type": "single_choice",
+      "question": "El estándar ISO 9126 identifica seis atributos clave, ¿cuál NO es uno de ellos? A. Funcionalidad. B. Portabilidad. C. Color de la interfaz. D. Eficiencia. solución: C. Color de la interfaz. justificación: Los atributos ISO son técnicos y medibles (funcionalidad, fiabilidad, usabilidad, eficiencia, mantenibilidad y portabilidad).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q160",
+      "type": "single_choice",
+      "question": "La «Conformidad» en la calidad de Garvin significa: A. Que el cliente está conforme con el precio. B. Que el software concuerda con estándares locales y externos. C. Que el software no tiene errores. D. Que se entrega en el plazo. solución: B. Conformidad. justificación: Evalúa si el producto sigue las normas establecidas (ej. leyes de protección de datos).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q161",
+      "type": "single_choice",
+      "question": "¿Qué tarea de SQA consiste en registrar y escalar el incumplimiento de las normas? A. Programación. B. Registrar y escalar la falta de cumplimiento. C. Diseñar la base de datos. D. Vender el producto. solución: B. Registrar y escalar la falta de cumplimiento. justificación: El grupo de SQA debe informar a la gerencia cuando no se cumplen los procesos de calidad.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q162",
+      "type": "single_choice",
+      "question": "El control de calidad (QC) se centra en: A. La gestión del personal. B. Revisar modelos, inspeccionar código y probar el software. C. Escribir el plan de marketing. D. Comprar hardware. solución: C. revisar los modelos, inspeccionar el código y probar el software. justificación: El QC actúa directamente sobre los productos del trabajo (código, modelos).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q163",
+      "type": "single_choice",
+      "question": "¿Qué dimensión de calidad de Garvin se refiere a las características que «sorprenden y agradan» al usuario? A. Durabilidad. B. Calidad de las características (features). C. Confiabilidad. D. Mantenibilidad. solución: B. Calidad de las características. justificación: Son los \"extras\" que dan valor diferencial al producto.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q164",
+      "type": "single_choice",
+      "question": "Las auditorías de SQA sirven para: A. Despedir a los programadores lentos. B. Evaluar la eficacia y completitud de las acciones de control de calidad. C. Contar el dinero del proyecto. D. Limpiar la oficina. solución: C. Auditorías e informes para evaluar la eficacia y completitud... justificación: Verifican que se estén realizando las pruebas y revisiones planeadas.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q165",
+      "type": "single_choice",
+      "question": "¿Qué factor de McCall mide el esfuerzo necesario para aprender a usar el sistema? A. Corrección. B. Usabilidad. C. Integridad. D. Eficiencia. solución: A. Usabilidad. justificación: Un software de alta calidad debe ser fácil de aprender y operar por el usuario.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q166",
+      "type": "single_choice",
+      "question": "¿Cuáles son las cuatro P de la administración efectiva de proyectos? A. Planificación, Personas, Productividad, Pruebas. B. Personal, Producto, Proceso, Proyecto. C. Principios, Precaución, Prioridades, Prototipos. D. Probar, Probar, Probar, Probar. solución: C. Personal, Producto, Proceso, Proyecto. justificación: Es el espectro administrativo de Pressman, ordenado de mayor a menor importancia.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q167",
+      "type": "single_choice",
+      "question": "¿Cuál es la primera tarea administrativa para gestionar un proyecto? A. Contratar a los programadores. B. Determinar el ámbito del producto (contexto, información y funciones). C. Comprar el servidor de base de datos. D. Diseñar el logotipo. solución: B. Identificar el contexto, la información y las funciones del software a desarrollar. justificación: Antes de planificar, hay que saber exactamente qué se va a construir.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q168",
+      "type": "single_choice",
+      "question": "El principio W5HH propuesto por Barry Boehm sirve para: A. Analizar la velocidad de la red. B. Realizar una serie de preguntas para definir las características clave del proyecto. C. Programar en lenguaje C. D. Elegir el color de las oficinas. solución: C. La realización de una serie de preguntas para definir las características claves del proyecto. justificación: Preguntas como ¿Por qué?, ¿Qué?, ¿Cuándo?, ¿Quién?, etc., ayudan a asentar el plan de proyecto.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q169",
+      "type": "single_choice",
+      "question": "¿Qué característica NO es propia de un gerente de proyecto eficaz? A. Debe poder comprender señales verbales y no verbales. B. Debe ser el encargado de las remuneraciones económicas (sueldos). C. Debe recompensar la iniciativa. D. Debe hacerse cargo del proyecto. solución: D. Debe ser el encargado de las remuneraciones económicas. justificación: El gerente técnico gestiona el proyecto y al equipo, pero no suele decidir los salarios (tarea de RRHH).",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q170",
+      "type": "single_choice",
+      "question": "Un rasgo fundamental de un buen líder de equipo es: A. Delegar el seguimiento del proyecto totalmente. B. El carisma, la resolución de problemas y la empatía. C. No hablar con los empleados. D. Ser el que más código escriba. solución: B. Carisma... resolución de problemas... empatía. justificación: El liderazgo se basa en habilidades blandas para motivar y coordinar al equipo humano.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q171",
+      "type": "single_choice",
+      "question": "¿Qué técnica se suele usar para la descomposición del problema del producto? A. Multiplicar y vencerás. B. Divide y vencerás. C. Ignorar y esperar. D. Copiar y pegar. solución: B. se suele utilizar la técnica «divide y vencerás». justificación: Descomponer el producto en funciones más pequeñas hace que el proyecto sea gestionable.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q172",
+      "type": "single_choice",
+      "question": "Los equipos en metodologías ágiles suelen caracterizarse por: A. Ser muy grandes. B. Autoorganizarse y tomar sus propias decisiones. C. Estar muy jerarquizados. D. No tener contacto con el cliente. solución: A. Autoorganizados. justificación: La agilidad fomenta la autonomía y la responsabilidad compartida del equipo.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q173",
+      "type": "single_choice",
+      "question": "El modelo People-CMM se encarga de: A. Medir la velocidad del procesador. B. Describir las áreas de madurez relacionadas con el personal del proyecto. C. Contar el número de ordenadores. D. Ninguna de las anteriores. solución: B. People CMM. justificación: Ayuda a las empresas a mejorar la gestión, capacitación y motivación de su plantilla.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q174",
+      "type": "single_choice",
+      "question": "¿Cuál de los siguientes NO se considera «personal» de un proyecto software? A. Clientes y usuarios finales. B. Profesionales (desarrolladores). C. Equipo de mantenimiento de limpieza de las oficinas. D. Gerentes ejecutivos. solución: B. Equipo de mantenimiento de las oficinas del equipo. justificación: Aunque son necesarios para la empresa, no participan en el proceso de ingeniería del software.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q175",
+      "type": "single_choice",
+      "question": "El modelo de proceso más adecuado debe elegirse basándose en: A. Los clientes y el personal. B. El entorno de trabajo. C. Las características del producto. D. Todas son correctas. solución: D. Todas son correctas. justificación: No hay un proceso único; depende del contexto humano, técnico y del negocio.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q176",
+      "type": "single_choice",
+      "question": "Para evitar la rotación de personal, un líder debe: A. Quitar las vacaciones. B. Proporcionar incentivos y un ambiente de trabajo no estresante. C. Prohibir hablar entre compañeros. D. Cambiar de proyecto cada semana. solución: B. Proporcionar incentivos al equipo para evitar la rotación de personal. justificación: La pérdida de personal clave es uno de los mayores riesgos para el cronograma del proyecto.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q177",
+      "type": "single_choice",
+      "question": "Realizar un análisis a la finalización del proyecto sirve para: A. Buscar culpables de los retrasos. B. Extraer lecciones aprendidas y mejorar el proceso futuro. C. Tirar toda la documentación. D. Celebrar una fiesta. solución: D. Realizar un análisis al final del proyecto para la mejora del proceso. justificación: La mejora continua se basa en aprender de los errores y aciertos pasados.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q178",
+      "type": "single_choice",
+      "question": "¿Qué rasgo debe EVITAR un líder de equipo? A. Autocontrol. B. Ambiente de trabajo estresante. C. Valorar la productividad. D. Delegar tareas. solución: B. Los líderes del equipo deberán evitar un ambiente de trabajo estresante. justificación: El estrés crónico reduce la calidad y aumenta la rotación de ingenieros.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q179",
+      "type": "single_choice",
+      "question": "Según las 4 P, ¿qué es lo más importante? A. El Proyecto. B. El Producto. C. El Personal. D. El Proceso. solución: C. Personal. justificación: Pressman afirma que el éxito depende principalmente de las personas y su organización.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q180",
+      "type": "single_choice",
+      "question": "¿Quiénes son los «usuarios finales»? A. Los que pagan por el software. B. Los que interactúan con el software una vez liberado. C. Los programadores. D. Los dueños de la empresa. solución: C. Usuarios finales. justificación: Son quienes realmente operan la herramienta para cumplir una tarea de negocio.",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q181",
+      "type": "single_choice",
+      "question": "C",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q182",
+      "type": "single_choice",
+      "question": "D (El proceso define precisamente quién hace qué, cuándo y cómo)",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q183",
+      "type": "single_choice",
+      "question": "A. Sugiere un enfoque sistemático y secuencial. B. Comienza con el modelado de requisitos. C. El modelo en V es una variante. D. Es un proceso iterativo e incremental. Solución: D (El modelo en cascada es lineal y secuencial)",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q184",
+      "type": "single_choice",
+      "question": "C (Deben definirse antes de la implementación para guiar la calidad)",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q185",
+      "type": "single_choice",
+      "question": "A. El requisito se elimina. B. Se efectúa una nueva elicitación. C. Se lanza el proceso de Negociación de Requisitos. D. Ninguna de las anteriores. Solución: C",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q186",
+      "type": "single_choice",
+      "question": "A. Modelos basados en escenarios. B. Modelos de datos. C. Modelos orientados a clases. D. Modelos orientados al flujo. Solución: A (Ejemplo: Casos de uso)",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q187",
+      "type": "single_choice",
+      "question": "A. Se pueden plantear diferentes niveles de detalle. B. Describe el sistema como “entrada-proceso-salida”. C. Es una herramienta de UML. D. El nivel 0 debe mostrar al sistema como una sola burbuja. Solución: C (Es una herramienta del análisis estructurado, no de UML)",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q188",
+      "type": "single_choice",
+      "question": "B",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q189",
+      "type": "single_choice",
+      "question": "A. Sistemas superiores. B. Sistemas subordinados. C. Sistemas entre iguales. D. Actores. Solución: A",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q190",
+      "type": "single_choice",
+      "question": "A",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q191",
+      "type": "single_choice",
+      "question": "A. Durabilidad. B. Conformidad. C. Confiabilidad. D. Calidad del desempeño. Solución: C",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q192",
+      "type": "single_choice",
+      "question": "A. El factor humano no es importante. B. Antes de plantear un proyecto, deben establecerse los objetivos y el ámbito. C. Existe un único proceso válido. D. Ninguna de las anteriores. Solución: B",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q193",
+      "type": "single_choice",
+      "question": "",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q194",
+      "type": "single_choice",
+      "question": "",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q195",
+      "type": "single_choice",
+      "question": "",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q196",
+      "type": "single_choice",
+      "question": "",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q197",
+      "type": "single_choice",
+      "question": "pregunta 17. (Modelo A, 2022) ¿Cuáles son los 4 paradigmas de estructura organizativa humana?",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q198",
+      "type": "single_choice",
+      "question": "B (El proceso debe ser adaptable y no imponer rigidez técnica extrema)",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q199",
+      "type": "single_choice",
+      "question": "B",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q200",
+      "type": "single_choice",
+      "question": "A. Asociación. B. Dependencia. C. Agregación. D. Herencia. Solución: C",
+      "options": [],
+      "correct_answer": "",
+      "explanation": ""
+    },
+    {
+      "id": "q201",
+      "type": "single_choice",
+      "question": "Pregunta 1",
+      "options": [
+        "El modelo de fallos del software se representa mediante la curva de la bañera.\nB. El modelo de desarrollo de software y hardware son equivalentes.\nC. Los costes de un proyecto software se concentran en la ingeniería y no en la fabricación repetitiva.\nD. El software requiere procesos industriales de producción en serie."
+      ],
+      "correct_answer": "C",
+      "explanation": "El software no se fabrica mediante procesos repetitivos como el hardware. Sus costes principales provienen del análisis, diseño, implementación y mantenimiento, es decir, del trabajo intelectual de ingeniería. No existe una “producción en cadena” que reduzca costes unitarios."
+    },
+    {
+      "id": "q202",
+      "type": "single_choice",
+      "question": "Pregunta 2",
+      "options": [
+        "Cuando el sistema es sencillo y los requisitos están completamente definidos.\nB. Cuando el área de aplicación no está clara o existe alto riesgo de rechazo por parte del cliente.\nC. Cuando el equipo trabaja en paralelo sin interacción con el cliente.\nD. Cuando se espera que los requisitos no cambien durante el proyecto."
+      ],
+      "correct_answer": "B",
+      "explanation": "El prototipado es especialmente útil cuando los requisitos son difusos o incompletos, ya que permite validar expectativas mediante versiones tempranas del sistema y reducir el riesgo de rechazo final."
+    },
+    {
+      "id": "q203",
+      "type": "single_choice",
+      "question": "Pregunta 3",
+      "options": [
+        "Asociación\nB. Dependencia\nC. Agregación\nD. Herencia",
+        "Preguntas tipo test (teoría transformada)"
+      ],
+      "correct_answer": "C",
+      "explanation": "La agregación representa una relación todo-parte con ciclo de vida independiente. La parte puede existir aunque el todo desaparezca, a diferencia de la composición."
+    },
+    {
+      "id": "q204",
+      "type": "single_choice",
+      "question": "Pregunta 4",
+      "options": [
+        "Ambos utilizan planificación rígida y documentación exhaustiva.\nB. Los procesos ágiles eliminan totalmente la planificación.\nC. Los procesos tradicionales priorizan la documentación, mientras que los ágiles priorizan el software funcionando.\nD. En los procesos ágiles el cliente solo participa al inicio del proyecto."
+      ],
+      "correct_answer": "C",
+      "explanation": "Los procesos tradicionales enfatizan planes y documentación detallada, mientras que los ágiles priorizan la entrega continua de software funcional y aceptan el cambio como parte natural del desarrollo."
+    },
+    {
+      "id": "q205",
+      "type": "single_choice",
+      "question": "Pregunta 5",
+      "options": [
+        "El cliente solo valida el producto final.\nB. El cliente forma parte activa del proceso con retroalimentación continua.\nC. El cliente participa únicamente en la fase de análisis.\nD. El cliente delega completamente las decisiones técnicas."
+      ],
+      "correct_answer": "B",
+      "explanation": "En metodologías ágiles, el cliente o product owner participa de forma continua, ayudando a ajustar prioridades y requisitos en cada iteración."
+    },
+    {
+      "id": "q206",
+      "type": "single_choice",
+      "question": "Pregunta 6",
+      "options": [
+        "Clase de Entidad\nB. Clase de Frontera\nC. Clase de Control\nD. Clase Persistente"
+      ],
+      "correct_answer": "C",
+      "explanation": "Las clases de control gestionan la secuencia de eventos de los casos de uso y coordinan la interacción entre clases de frontera y de entidad."
+    },
+    {
+      "id": "q207",
+      "type": "single_choice",
+      "question": "Pregunta 7",
+      "options": [
+        "Pedido\nB. Usuario\nC. Pantalla de inicio de sesión\nD. Línea de pedido",
+        "Preguntas tipo test (UML y práctica)"
+      ],
+      "correct_answer": "C",
+      "explanation": "Las clases de frontera representan la interfaz entre el sistema y los actores externos, como pantallas, formularios o APIs."
+    },
+    {
+      "id": "q208",
+      "type": "single_choice",
+      "question": "Pregunta 8",
+      "options": [
+        "Las líneas de pedido permanecen independientes.\nB. Las líneas de pedido pasan a otro pedido automáticamente.\nC. Las líneas de pedido desaparecen junto con el pedido.\nD. Se convierten en objetos huérfanos reutilizables."
+      ],
+      "correct_answer": "C",
+      "explanation": "La composición implica dependencia total del ciclo de vida: la parte no puede existir sin el todo."
+    },
+    {
+      "id": "q209",
+      "type": "single_choice",
+      "question": "Pregunta 9",
+      "options": [
+        "El producto solo existe dentro de una línea de pedido.\nB. Varias líneas pueden referenciar al mismo producto y este existe independientemente.\nC. El producto hereda de la línea de pedido.\nD. La línea de pedido controla el ciclo de vida del producto."
+      ],
+      "correct_answer": "B",
+      "explanation": "En la agregación, el objeto agregado (Producto) tiene existencia propia y puede ser compartido por múltiples objetos."
+    },
+    {
+      "id": "q210",
+      "type": "single_choice",
+      "question": "Pregunta 10",
+      "options": [
+        "Representar clases abstractas.\nB. Definir un conjunto finito de valores posibles para un atributo.\nC. Modelar relaciones de herencia.\nD. Sustituir diagramas de estados."
+      ],
+      "correct_answer": "B",
+      "explanation": "Las enumeraciones restringen un atributo a un conjunto cerrado de valores, mejorando la claridad y evitando estados inválidos."
+    },
+    {
+      "id": "q211",
+      "type": "single_choice",
+      "question": "Pregunta 11",
+      "options": [
+        "Un actor siempre representa a una persona física.\nB. Un actor es cualquier rol externo que interactúa con el sistema.\nC. Los actores forman parte del sistema.\nD. Cada actor corresponde a una única clase.",
+        "Preguntas tipo test (Verdadero / Falso reconvertidas)"
+      ],
+      "correct_answer": "B",
+      "explanation": "Un actor representa un rol externo, que puede ser una persona, otro sistema o un dispositivo."
+    },
+    {
+      "id": "q212",
+      "type": "single_choice",
+      "question": "Pregunta 12",
+      "options": [
+        "Modelado\nB. Construcción\nC. Comunicación\nD. Despliegue"
+      ],
+      "correct_answer": "C",
+      "explanation": "El proceso comienza con la comunicación, donde se identifican necesidades, objetivos y requisitos con los interesados."
+    },
+    {
+      "id": "q213",
+      "type": "single_choice",
+      "question": "Pregunta 13",
+      "options": [
+        "Verdadero\nB. Falso"
+      ],
+      "correct_answer": "A",
+      "explanation": "La modularidad mejora la comprensión, el mantenimiento y la reutilización del software."
+    },
+    {
+      "id": "q214",
+      "type": "single_choice",
+      "question": "Pregunta 14",
+      "options": [
+        "Verdadero\nB. Falso"
+      ],
+      "correct_answer": "B",
+      "explanation": "Los nombres significativos y descriptivos mejoran la legibilidad y mantenibilidad del código, sin impacto relevante en el rendimiento."
+    }
+  ]
+}
