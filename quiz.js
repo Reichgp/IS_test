@@ -1,5 +1,5 @@
 
-const DATA_FILE = "IS_2_fixed.json";
+const DATA_FILE = "IS_2";
 
 let settings = {
   show_progress: true,
