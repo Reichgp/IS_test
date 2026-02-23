@@ -1,4 +1,3 @@
-
 const DATA_FILE = "IS_2.json";
 
 let settings = {
@@ -17,7 +16,6 @@ let answered = 0;
 let currentAnswered = false;
 let lastWasCorrect = false;
 
-
 // key: question.id  value: { selectedIndex: number, selectedText: string, isCorrect: boolean }
 const responses = new Map();
 
@@ -34,19 +32,18 @@ const elFails = document.getElementById("fails");
 
 const btnAnswer = document.getElementById("btnAnswer");
 const btnNext = document.getElementById("btnNext");
-const btnPrev = document.getElementById("btnPrev");     
+const btnPrev = document.getElementById("btnPrev");
 const btnRestart = document.getElementById("btnRestart");
 
 btnAnswer.addEventListener("click", onAnswer);
 btnNext.addEventListener("click", onNext);
-btnPrev.addEventListener("click", onPrev);              
+btnPrev.addEventListener("click", onPrev);
 btnRestart.addEventListener("click", restart);
 
 init();
 
 async function init() {
   try {
-   
     elStatus.textContent = "Cargando preguntas…";
 
     const res = await fetch(DATA_FILE, { cache: "no-store" });
@@ -70,12 +67,12 @@ async function init() {
       seenIds.set(base, n);
       if (n > 1) qq.id = `${base}__${n}`;
     });
-    order = Array.from({ length: questions.length }, (_, i) => i);
 
+    order = Array.from({ length: questions.length }, (_, i) => i);
     if (settings.shuffle_questions) shuffleInPlace(order);
 
     elTotal.textContent = String(questions.length);
-    elStatus.textContent = ""; 
+    elStatus.textContent = "";
     btnRestart.disabled = false;
 
     renderQuestion();
@@ -122,7 +119,6 @@ function normalizeQuestion(q) {
     explanation
   };
 }
-
 
 function renderQuestion() {
   const q = questions[order[idx]];
@@ -179,9 +175,9 @@ function renderQuestion() {
   });
 
   // botones
-  btnPrev.disabled = idx === 0;         // habilita si no es la primera
-  btnNext.disabled = !currentAnswered;  // si ya respondida, puedes avanzar
-  btnAnswer.disabled = true;            // hasta que selecciones algo (si no respondida)
+  btnPrev.disabled = idx === 0;
+  btnNext.disabled = !currentAnswered;
+  btnAnswer.disabled = true;
 
   // si ya estaba respondida, mostramos feedback y bloqueamos inputs
   if (saved) {
@@ -190,7 +186,7 @@ function renderQuestion() {
     btnAnswer.disabled = true;
   }
 
-  elStatus.textContent = ""; // sin "Listo."
+  elStatus.textContent = "";
   updateScoreboard();
 }
 
@@ -219,10 +215,8 @@ function onAnswer() {
   const selectedIndex = Number(selected.value);
   const selectedText = String(selected.dataset.text ?? "");
 
-  const isCorrect =
-    (typeof q.correct_index === "number" && q.correct_index >= 0)
-      ? (selectedIndex === q.correct_index)
-      : (selectedText === q.correct_answer);
+  // ✅ CORRECCIÓN: validar por TEXTO (robusto aunque correct_index esté mal en el JSON)
+  const isCorrect = (selectedText === q.correct_answer);
 
   // guardar respuesta para permitir volver atrás sin recontar
   responses.set(q.id, { selectedIndex, selectedText, isCorrect });
@@ -255,7 +249,6 @@ function onAnswer() {
   updateScoreboard();
 }
 
-
 function onNext() {
   if (!currentAnswered) return;
 
@@ -274,7 +267,7 @@ function onPrev() {
 }
 
 function showEnd() {
-  elStatus.textContent = ""; // o "Fin del test." si quieres
+  elStatus.textContent = "";
   elProgress.textContent = settings.show_progress ? `Fin` : "";
   elQuestion.textContent = "Fin del test";
   elOptions.innerHTML = "";
